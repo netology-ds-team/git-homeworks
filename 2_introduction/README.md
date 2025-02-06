@@ -14,7 +14,7 @@
 
 ### Задача
 
-1. Скачайте [по ссылке](./neuro-startup.zip) архив с проектом.
+1. Скачайте [по ссылке](https://github.com/netology-ds-team/git-homeworks/raw/refs/heads/main/2_introduction/neuro-startup.zip) архив с проектом.
 2. Распакуйте из него папку `1.2. Site For Import`.
 3. Создайте на базе папки `1.2. Site For Import` Git-репозиторий.
 4. Внутри репозитория создайте файл `.gitignore`. Этот файл **не должен содержать никакого расширения** (то есть, не должно получиться файла `.gitignore.txt`).
